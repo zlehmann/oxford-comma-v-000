@@ -12,5 +12,5 @@ def oxford_comma(array)
     array[-1] = oxford
     puts "#{array.join(", ")}"
   end
-  #binding.pry
+  binding.pry
 end
